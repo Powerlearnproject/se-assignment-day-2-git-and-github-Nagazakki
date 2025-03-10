@@ -40,6 +40,7 @@
 - This process ensures that code changes and improvements are thoroughly assessed and validated befre they become part of the main codebase, enhancing collaboration nd maintaining code quality and integrity of the data and the process. 
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+- 
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
